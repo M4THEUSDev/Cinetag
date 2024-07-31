@@ -20,20 +20,17 @@ Neste projeto, utilizou-se a biblioteca react-router-dom para explorar suas func
 
 ### Interface do Usuário
 
-<img src="AluraFlix.png"  alt="Imagem do AluraFlix." width="1300">
+<img src="Cinetag.png"  alt="Imagem do Cinetag." width="1300">
 
 ## :hammer: Caracteristicas
 
-- `Botão:` Componente reutilizável para ações como submissão de formulários e navegação.
+- `Página Inicial:` 
 
-- `Header:` O cabeçalho da aplicação, contendo a navegação principal e a identidade visual do Aluraflix.
+- `Página de Favoritos:` 
 
-- `Banner:` Um destaque visual que apresenta conteúdos importantes ou novidades na plataforma.
+- `Página de Reprodução de vídeos:`
 
-- `Footer:` O rodapé da aplicação, que pode incluir informações de contato, links úteis e outras informações relevantes.
-
-- `Página Padrão:` Estrutura base para todas as páginas da aplicação, garantindo consistência no layout e na experiência do usuário.
-
+- `Página Não Encontrada:` 
 
 ## :mag: Demonstração
 
@@ -46,4 +43,4 @@ Para uma experiência completa e visual do projeto em funcionamento, você pode 
 
 ## :student: Autor
 
-Este repositório contém o projeto Aluraflix, desenvolvido como o desafio final para a formação no curso proporcionado pela Oracle em parceria com a Alura.
+Este repositório contém o projeto Cinetag, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
